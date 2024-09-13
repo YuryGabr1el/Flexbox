@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Menu Geral */
+
 .menu {
     display: flex;
     background-color: rgb(196, 196, 196);
@@ -33,7 +33,6 @@ body {
     align-items: center;
 }
 
-/* Container Flexbox 1 */
 .container {
     box-sizing: border-box;
     display: flex;
@@ -89,7 +88,7 @@ body {
     background-color: rgb(66, 66, 66);
 }
 
-/* Container Flexbox 2 */
+
 .container2 {
     box-sizing: border-box;
     display: flex;
